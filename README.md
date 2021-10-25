@@ -34,9 +34,8 @@ Google Books API search engine built in MERN Stack. Other than searching for boo
 <p><a href="https://reactjs.org/">React.js</a></p>
 <p><a href="https://nodejs.org/">Node.js</a></p>
 
-##Credits:
 
-
+## Credits:
 -Spencer Berkabile
 
 https://github.com/SBerkebile7
@@ -56,6 +55,7 @@ https://github.com/EmilyNecciai
 
 -Benjamin Gallager
 https://github.com/Bgallag5
+
 
 ## Contributor:
 Shane Crisostomo ©2021 All Rights Reserved.
