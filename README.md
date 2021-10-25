@@ -6,7 +6,7 @@ Challenge 21: Google Books API search engine built in MERN Stack
 
 Google Books API search engine built in MERN Stack.
 
-### Github : 
+### Github : https://github.com/shaner3423/book-search-engine
 ### Website : https://book-search-99.herokuapp.com/
 
 
@@ -28,16 +28,32 @@ Google Books API search engine built in MERN Stack. Other than searching for boo
 - Saved books are stored in their account, so next time they login, the books are still in their account to be viewed. 
 
 
-## Screenshots
-
-
-
 ## Technologies Use
 <p><a href="https://www.mongodb.com/">MongoDB</a></p>
 <p><a href="https://www.npmjs.com/package/express">Express.js</a></p>
 <p><a href="https://reactjs.org/">React.js</a></p>
 <p><a href="https://nodejs.org/">Node.js</a></p>
 
+##Credits:
+-Spencer Berkabile
+
+https://github.com/SBerkebile7
+
+
+-Dana Bottoni
+
+https://github.com/dbottoni
+
+-Daniel Carazo 
+
+https://github.com/DMC20
+
+-Emily Mayeski
+
+https://github.com/EmilyNecciai
+
+-Benjamin Gallager
+https://github.com/Bgallag5
 
 ## Contributor:
 Shane Crisostomo ©2021 All Rights Reserved.
