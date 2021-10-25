@@ -28,10 +28,6 @@ Google Books API search engine built in MERN Stack. Other than searching for boo
 - Saved books are stored in their account, so next time they login, the books are still in their account to be viewed. 
 
 
-## Screenshots
-
-
-
 ## Technologies Use
 <p><a href="https://www.mongodb.com/">MongoDB</a></p>
 <p><a href="https://www.npmjs.com/package/express">Express.js</a></p>
