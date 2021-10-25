@@ -37,14 +37,23 @@ Google Books API search engine built in MERN Stack. Other than searching for boo
 ##Credits:
 -Spencer Berkabile
 
+https://github.com/SBerkebile7
+
 
 -Dana Bottoni
 
+https://github.com/dbottoni
 
 -Daniel Carazo 
+
 https://github.com/DMC20
 
--Emily 
+-Emily Mayeski
+
+https://github.com/EmilyNecciai
+
+-Benjamin Gallager
+https://github.com/Bgallag5
 
 ## Contributor:
 Shane Crisostomo ©2021 All Rights Reserved.
